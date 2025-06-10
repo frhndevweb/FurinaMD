@@ -83,7 +83,8 @@ Atau buka folder `command/` untuk melihat struktur perintah.
 
 ## 📜 Lisensi
 
-Project ini dirilis di bawah lisensi **MIT License**
+Project ini dirilis di bawah lisensi **MIT License**  
+Silakan lihat file [LICENSE](LICENSE) untuk detail lebih lengkap.
 
 ---
 
